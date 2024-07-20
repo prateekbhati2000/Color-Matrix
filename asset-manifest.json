@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Color-Matrix/static/css/main.77415449.css",
+    "main.js": "/Color-Matrix/static/js/main.09c260de.js",
+    "static/js/453.169dfe00.chunk.js": "/Color-Matrix/static/js/453.169dfe00.chunk.js",
+    "index.html": "/Color-Matrix/index.html",
+    "main.77415449.css.map": "/Color-Matrix/static/css/main.77415449.css.map",
+    "main.09c260de.js.map": "/Color-Matrix/static/js/main.09c260de.js.map",
+    "453.169dfe00.chunk.js.map": "/Color-Matrix/static/js/453.169dfe00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77415449.css",
+    "static/js/main.09c260de.js"
+  ]
+}
